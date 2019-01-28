@@ -4,6 +4,6 @@ Solutions to assignments of Algorithms Part 1 done by me.
 Assignment 1 - 100% 
 Assignment 2 - 100% 
 Assignment 3 - 100% 
-Assignment 3 - 99% 
+Assignment 4 - 99% 
 
 
